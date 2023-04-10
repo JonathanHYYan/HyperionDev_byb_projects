@@ -1,0 +1,15 @@
+Total number of users: 		8
+Total number of task(s): 	6
+===================================================
+Admin has 3 task(s).
+Admin has 50.0% of all assignments.
+Admin has completed 33.33333333333333% of their task(s).
+Admin has 66.66666666666666% of their task(s) incomplete.
+Admin has 66.66666666666666% of their task(s) overdue.
+===================================================
+T2 has 3 task(s).
+T2 has 50.0% of all assignments.
+T2 has completed 33.33333333333333% of their task(s).
+T2 has 66.66666666666666% of their task(s) incomplete.
+T2 has 66.66666666666666% of their task(s) overdue.
+===================================================

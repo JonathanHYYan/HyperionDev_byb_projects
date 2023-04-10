@@ -1,0 +1,4 @@
+Division calculation: float(num_1)/float(num_2)
+Division calculation: 3 / 3
+Multiplication calculation: 5 * 2
+Addition calculation: 2 + 10
