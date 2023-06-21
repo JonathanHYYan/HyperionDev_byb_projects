@@ -42,4 +42,4 @@ def holiday_cost():
     else:
         print('Sorry you one of the inputs was incorrect, please try again')
 
-holiday_cost();
+holiday_cost()
