@@ -31,7 +31,7 @@ def car_rental(input):
 # Total holiday cost function
 def holiday_cost():
     # If check in case an incorrect inputs were used
-    if(plane_cost(city_flight) != 0 and hotel_cost(num_nights).isnumeric() and car_rental(rental_days).isnumeric()):
+    if(plane_cost(city_flight) != 0 and type(hotel_cost(num_nights)) is int and type(car_rental(rental_days)) is int):
         total = plane_cost(city_flight) + hotel_cost(num_nights) + car_rental(rental_days)
         print('Your total holiday cost is: £' + str(total))
         print('Your cost break down:')
